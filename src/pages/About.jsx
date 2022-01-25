@@ -1,17 +1,18 @@
 import Card from '../components/shared/Card'
 import { Link } from 'react-router-dom'
+import Button from '../components/shared/Button'
 
 function About() {
     return (
         <Card>
             <div className="about">
-                <h1>About this Project</h1>
-                <p>This is a React Feedback App</p>
+                <h1>About this App</h1>
+                <p>This is a Feedback UI Application developed using React.</p>
                 <p>Version: 1.0.0</p>
 
-                <p>
-                    <Link to="/">Back to Home</Link>
-                </p>
+                <Button version='secondary'>
+                    <Link to="/" style={{ textDecoration: 'none', color: 'inherit' }}>Back to Home</Link>
+                </Button>
             </div>
         </Card>
     )
