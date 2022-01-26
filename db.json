@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc gravida, mauris in vestibulum finibus, felis nisi varius felis, a tempor metus mauris at neque. Aliquam erat volutpat."
+    },
+    {
+      "id": 2,
+      "rating": 8,
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc gravida, mauris in vestibulum finibus, felis nisi varius felis, a tempor metus mauris at neque. Aliquam erat volutpat."
+    },
+    {
+      "id": 3,
+      "rating": 6,
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc gravida, mauris in vestibulum finibus, felis nisi varius felis, a tempor metus mauris at neque. Aliquam erat volutpat."
+    }
+  ]
+}
