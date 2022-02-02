@@ -2,8 +2,6 @@
 
 This is a project developed during a React course. It's an interface that allows users to add, update, delete feedbacks, allowing them to choose a rating from 1 to 10 and inputing a short message. For the data it was used a mock REST API with json-server.
 
-!["Screenshot of main page"](/github/preview.png)
-
 # ⚙ Usage
 
 - Install the dependencies of this project by running `npm install`
