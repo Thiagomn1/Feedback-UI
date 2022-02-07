@@ -5,4 +5,4 @@ This is a project developed during a React course. It's an interface that allows
 # ⚙ Usage
 
 - Install the dependencies of this project by running `npm install`
-- Run the application with `npm run dev`
+- Run the application with `npm start`
